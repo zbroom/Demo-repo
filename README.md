@@ -1,4 +1,4 @@
-# MI-462 Final assessment and rubic
+# MI-462 Final assessment and rubic - Broomall
 
 1. Data analysis project - Excel & Minitab
 2. Data preparation and visualization project - Tableau Prep and Tableau
